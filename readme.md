@@ -1,3 +1,19 @@
+
+WARNING !!!!
+
+This repository is now DEPERECATED, please go to https://github.com/kaosat-dev/CoffeeSCad for the new repository
+(this won't change again, sorry for any inconvenience)
+
+
+
+
+
+
+
+
+
+
+
 CoffeeSCad
 =============
 
